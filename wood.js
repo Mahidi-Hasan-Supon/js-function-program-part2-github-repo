@@ -41,7 +41,7 @@ function shoppingPrice(shirt,pant,shoi){
     const totalPantPrice = pant * onePantPrice;
     const totalShoiPrice = shoi * oneShoiPrice;
     const totalPrice = totalShirtPrice + totalPantPrice + totalShoiPrice;
-    return totalPrice;
+    return   totalPrice;
 
 }
 

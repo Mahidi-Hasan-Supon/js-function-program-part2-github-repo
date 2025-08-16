@@ -1,3 +1,7 @@
+/* sob theke boro sonka;>>>
+*function
+*array use */ 
+
 // const number5 = [45,54,875,9641,458];
 
 // function maxNumber(numbers){
@@ -13,6 +17,11 @@
 // const maxNumber1 = maxNumber(number5)
 
 // console.log(maxNumber1)
+
+
+
+
+
 
 
 // smallest  number in function
