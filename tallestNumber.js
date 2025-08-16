@@ -23,7 +23,7 @@ function minNumber(numbers){
     for(const num of numbers){
         if(num < min){
             min = num;
-        }
+        } 
     }
     return min
 }
